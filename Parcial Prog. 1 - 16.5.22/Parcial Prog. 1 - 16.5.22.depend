@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652738672 source:c:\users\pc and the boyz\downloads\utn\lab - prog 1\parcial prog. 1 - 16.5.22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
